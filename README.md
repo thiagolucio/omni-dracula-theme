@@ -1,13 +1,33 @@
-# README
-## This is the README for your extension "omni-dracula-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Omni Dracula VSCode Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+- A mix Inspired bettween Omni and Dracula Colors Themes
+  
+  - Created by Thiago Lúcio Bittencourt
+  
+  - Repository: https://github.com/thiagolucio/omni-dracula-theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Personal Site: https://thiagolucio.com.br
 
-**Enjoy!**
+HTML Vision:
+
+![omni-dracula-theme-html.png](/media/dados/REPOS/PESSOAL/omni-dracula-theme/images/omni-dracula-theme-html.png)
+
+JavaScript Vision:
+
+![omni-dracula-theme-js.png](/media/dados/REPOS/PESSOAL/omni-dracula-theme/images/omni-dracula-theme-js.png)
+
+JSX Vision:
+
+![omni-dracula-theme-jsx.png](/media/dados/REPOS/PESSOAL/omni-dracula-theme/images/omni-dracula-theme-jsx.png)
+
+CSS Vision:
+
+![omni-dracula-theme-css.png](/media/dados/REPOS/PESSOAL/omni-dracula-theme/images/omni-dracula-theme-css.png)
+
+JSON Vision:
+
+![omni-dracula-theme-json.png](/media/dados/REPOS/PESSOAL/omni-dracula-theme/images/omni-dracula-theme-json.png)
+
+Be Happy  :)
+
+Suggest's, please, thiagolucio@gmail.com
