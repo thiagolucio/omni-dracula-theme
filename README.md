@@ -1,12 +1,15 @@
-# Omni Dracula VSCode Theme
-
-- A mix Inspired bettween Omni and Dracula Colors Themes
-  
-  - Created by Thiago Lúcio Bittencourt
-  
-  - Repository: https://github.com/thiagolucio/omni-dracula-theme
-
-- Personal Site: https://thiagolucio.com.br
+<br/>
+<div align="center">
+  <img width="128px" src="https://thiagolucio.com.br/downloads/omnidraculatheme/logo-omni-dracula-theme.png">
+</div>
+<br/>
+<div align="center">
+  <h1>Omni Dracula VSCode Theme</h1>
+  <h3>A mix Inspired bettween Omni and Dracula Colors Themes</h3>
+  <a href="https://thiagolucio.com.br">Created by Thiago Lúcio Bittencourt</a>
+  <br/>
+  <a href="https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme">MarketPlace</a>
+</div>
 
 HTML Vision:
 
@@ -28,6 +31,6 @@ JSON Vision:
 
 ![omni-dracula-theme-json.png](https://thiagolucio.com.br/downloads/omnidraculatheme/omni-dracula-theme-json.png)
 
-Be Happy  :)
+Be Happy :)
 
 Suggest's, please, thiagolucio@gmail.com
