@@ -4,7 +4,7 @@
     "description": "A mix Inspired bettween Omni and Dracula Colors Themes",
     "version": "0.0.1",
     "publisher": "ThiagoLcioBittencourt",
-    "icon": "images/logo-omni-dracula-theme.png",
+    "icon": "./themes/logo-omni-dracula-theme.png",
     "repository": {
         "type": "git",
         "url": "git@github.com:thiagolucio/omni-dracula-theme.git"
