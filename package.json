@@ -1,0 +1,21 @@
+{
+    "name": "omni-dracula-theme",
+    "displayName": "Omni Dracula Theme",
+    "description": "A mix Inspired bettween Omni and Dracula Colors Themes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Omni Dracula Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Omni Dracula Theme-color-theme.json"
+            }
+        ]
+    }
+}
