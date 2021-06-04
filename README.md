@@ -10,23 +10,23 @@
 
 HTML Vision:
 
-![omni-dracula-theme-html.png](https://github.com/thiagolucio/omni-dracula-theme/blob/main/images/omni-dracula-theme-html.png)
+![omni-dracula-theme-html.png](https://thiagolucio.com.br/downloads/omnidraculatheme/omni-dracula-theme-html.png)
 
 JavaScript Vision:
 
-![omni-dracula-theme-js.png](https://github.com/thiagolucio/omni-dracula-theme/blob/main/images/omni-dracula-theme-js.png)
+![omni-dracula-theme-js.png](https://thiagolucio.com.br/downloads/omnidraculatheme/omni-dracula-theme-js.png)
 
 JSX Vision:
 
-![omni-dracula-theme-jsx.png](https://github.com/thiagolucio/omni-dracula-theme/blob/main/images/omni-dracula-theme-jsx.png)
+![omni-dracula-theme-jsx.png](https://thiagolucio.com.br/downloads/omnidraculatheme/omni-dracula-theme-jsx.png)
 
 CSS Vision:
 
-![omni-dracula-theme-css.png](https://github.com/thiagolucio/omni-dracula-theme/blob/main/images/omni-dracula-theme-css.png)
+![omni-dracula-theme-css.png](https://thiagolucio.com.br/downloads/omnidraculatheme/omni-dracula-theme-css.png)
 
 JSON Vision:
 
-![omni-dracula-theme-json.png](https://github.com/thiagolucio/omni-dracula-theme/blob/main/images/omni-dracula-theme-json.png)
+![omni-dracula-theme-json.png](https://thiagolucio.com.br/downloads/omnidraculatheme/omni-dracula-theme-json.png)
 
 Be Happy  :)
 

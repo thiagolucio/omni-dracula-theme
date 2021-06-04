@@ -3,7 +3,8 @@
     "displayName": "Omni Dracula Theme",
     "description": "A mix Inspired bettween Omni and Dracula Colors Themes",
     "version": "0.0.1",
-    "publisher": "Thiago Lucio Bittencourt - https://thiagolucio.com.br",
+    "publisher": "ThiagoLcioBittencourt",
+    "icon": "images/logo-omni-dracula-theme.png",
     "repository": {
         "type": "git",
         "url": "git@github.com:thiagolucio/omni-dracula-theme.git"
@@ -20,6 +21,10 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "galleryBanner": {
+        "color": "#7E57C2",
+        "theme": "dark"
+      },
     "categories": [
         "Themes"
     ],
