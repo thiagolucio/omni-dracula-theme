@@ -730,7 +730,7 @@
 		"name": "Meta tag",
 		"scope": "meta.tag",
 		"settings": {
-		  "foreground": "#f7e8f0"
+			"foreground": "#dfe0de"
 		}
 	  },
 	  {
@@ -1933,8 +1933,8 @@
 	  "editor.background": "#1E1F29", 
 	  "editor.foreground": "#ffffff",
 	  "editorLineNumber.foreground": "#685d80",
-	  "editorCursor.foreground": "#ad97ff",
-	  "editorCursor.background": "#ffffff",
+	  "editorCursor.foreground": "#aa97ff",
+	  "editorCursor.background": "#ffffff00",
 	  "editor.selectionBackground": "#5c4e70",
 	  "editor.inactiveSelectionBackground": "#272b30",
 	  "editorWhitespace.foreground": "#24262329",
@@ -1959,11 +1959,11 @@
 	  "editorIndentGuide.background": "#272930",
 	  "editorIndentGuide.activeBackground": "#4e3f6f",
 	  "editorRuler.foreground": "#2e2b38",
-	  "editorBracketMatch.background": "#8f79cf",
+	  "editorBracketMatch.background": "#333",
 	  "editorBracketMatch.border": "#88888800",
 	  "editor.foldBackground": "#48525c4d",
 	  "editorOverviewRuler.background": "#25252500",
-	  "editorOverviewRuler.border": "#7f7f7f4d",
+	  "editorOverviewRuler.border": "#7f7f7fc2",
 	  "editorError.foreground": "#dd2500",
 	  "editorError.background": "#B73A3400",
 	  "editorError.border": "#ffffff00",

@@ -730,7 +730,7 @@
 		"name": "Meta tag",
 		"scope": "meta.tag",
 		"settings": {
-		  "foreground": "#f7e8f0"
+		  "foreground": "#dfe0de"
 		}
 	  },
 	  {
@@ -1861,7 +1861,7 @@
 	"colors": {
 	  "foreground": "#cccccc",
 	  "focusBorder": "#15141600",
-	  "selection.background": "#af8fe6",
+	  "selection.background": "#b59ddf",
 	  "scrollbar.shadow": "#0c0b0e",
 	  "activityBar.foreground": "#a885f3",
 	  "activityBar.background": "#221e28",
@@ -1933,13 +1933,13 @@
 	  "editor.background": "#2A2C39",
 	  "editor.foreground": "#ffffff",
 	  "editorLineNumber.foreground": "#685d80",
-	  "editorCursor.foreground": "#ad97ff",
-	  "editorCursor.background": "#ffffff",
-	  "editor.selectionBackground": "#5c4e70",
+	  "editorCursor.foreground": "#aa97ff",
+	  "editorCursor.background": "#ffffff00",
+	  "editor.selectionBackground": "#20142e",
 	  "editor.inactiveSelectionBackground": "#272b30",
 	  "editorWhitespace.foreground": "#24262329",
-	  "editor.selectionHighlightBackground": "#b47cda",
-	  "editor.selectionHighlightBorder": "#6b8eb600",
+	  "editor.selectionHighlightBackground": "#320d47",
+	  "editor.selectionHighlightBorder": "#12fc0a",
 	  "editor.findMatchBackground": "#2fe63d36",
 	  "editor.findMatchBorder": "#74879f00",
 	  "editor.findMatchHighlightBackground": "#8bff0055",
@@ -1959,11 +1959,11 @@
 	  "editorIndentGuide.background": "#272930",
 	  "editorIndentGuide.activeBackground": "#4e3f6f",
 	  "editorRuler.foreground": "#2e2b38",
-	  "editorBracketMatch.background": "#8f79cf",
-	  "editorBracketMatch.border": "#88888800",
+	  "editorBracketMatch.background": "#2A2C38",
+	  "editorBracketMatch.border": "#e2e2e200",
 	  "editor.foldBackground": "#48525c4d",
 	  "editorOverviewRuler.background": "#25252500",
-	  "editorOverviewRuler.border": "#7f7f7f4d",
+	  "editorOverviewRuler.border": "#7f7f7fc2",
 	  "editorError.foreground": "#dd2500",
 	  "editorError.background": "#B73A3400",
 	  "editorError.border": "#ffffff00",
