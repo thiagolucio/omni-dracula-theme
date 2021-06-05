@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
   <h1>Omni Dracula VSCode Theme</h1>
-  <h3>A mix Inspired bettween Omni and Dracula Colors Themes</h3>
+  <h3>A mix Inspired in Omni and Dracula Colors Themes</h3>
   <a href="https://thiagolucio.com.br">Created by Thiago Lúcio Bittencourt</a>
   <br/>
   <a href="https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme">MarketPlace</a>
