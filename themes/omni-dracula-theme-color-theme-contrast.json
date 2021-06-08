@@ -809,7 +809,7 @@
 		"name": "Attribute class html attribute",
 		"scope": [
 			"string.quoted.double.html",
-			"meta.attribute.class.html",
+			"meta.attribute.class.html"
 		],
 		"settings": {
 		  "fontStyle": "italic",
@@ -1492,7 +1492,7 @@
 		"scope": [
 		  "constant.character.entity",
 		  "entity.other.attribute-name.pseudo-class.html",
-		  "entity.other.attribute-name.pseudo-element.html",
+		  "entity.other.attribute-name.pseudo-element.html"
 		],
 		"settings": {
 		  "foreground": "#7bdaff"
@@ -1974,7 +1974,7 @@
 	  "editorInfo.foreground": "#75beff",
 	  "editorInfo.background": "#4490BF00",
 	  "editorInfo.border": "#4490BF00",
-	  "editorGutter.background": "#1E1F29", // 2A2C39 1E1F29 282A34 262733
+	  "editorGutter.background": "#1E1F29",
 	  "editorGutter.modifiedBackground": "#0c7d9d",
 	  "editorGutter.addedBackground": "#587c0c",
 	  "editorGutter.deletedBackground": "#94151b",
