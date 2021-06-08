@@ -1833,7 +1833,8 @@
 		"name": "js/ts italic",
 		"scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": "italic",
+		  "foreground": "#00ebfc"
 		}
 	  },
 	  {
@@ -1865,7 +1866,7 @@
 	  "scrollbar.shadow": "#0c0b0e",
 	  "activityBar.foreground": "#a885f3",
 	  "activityBar.background": "#221e28",
-	  "activityBar.inactiveForeground": "#dbdbdb66",
+	  "activityBar.inactiveForeground": "#5c5275cb",
 	  "activityBarBadge.foreground": "#ffffff",
 	  "activityBarBadge.background": "#a885f3",
 	  "sideBar.background": "#252730",
@@ -1903,8 +1904,8 @@
 	  "statusBarItem.remoteForeground": "#ffffff",
 	  "titleBar.activeBackground": "#221e28",
 	  "titleBar.activeForeground": "#ffffff",
-	  "titleBar.inactiveBackground": "#26212c",
-	  "titleBar.inactiveForeground": "#cccccc99",
+	  "titleBar.inactiveBackground": "#242330",
+	  "titleBar.inactiveForeground": "#6a5d8dee",
 	  "titleBar.border": "#381d3200",
 	  "menubar.selectionForeground": "#ffffff",
 	  "menubar.selectionBackground": "#7d72cb70",
@@ -1930,7 +1931,7 @@
 	  "inputOption.activeForeground": "#ffffff",
 	  "input.placeholderForeground": "#816fb4",
 	  "textLink.foreground": "#c290ff",
-	  "editor.background": "#2A2C39",
+	  "editor.background": "#282a36",
 	  "editor.foreground": "#ffffff",
 	  "editorLineNumber.foreground": "#685d80",
 	  "editorCursor.foreground": "#bfb0ff",
@@ -1973,7 +1974,7 @@
 	  "editorInfo.foreground": "#75beff",
 	  "editorInfo.background": "#4490BF00",
 	  "editorInfo.border": "#4490BF00",
-	  "editorGutter.background": "#2A2C39", // 2A2C39 1E1F29 282A34 262733
+	  "editorGutter.background": "#282a36", // 2A2C39 1E1F29 282A34 262733
 	  "editorGutter.modifiedBackground": "#0c7d9d",
 	  "editorGutter.addedBackground": "#587c0c",
 	  "editorGutter.deletedBackground": "#94151b",
@@ -2102,7 +2103,7 @@
 	  "minimap.selectionHighlight": "#2cd9f0",
 	  "minimap.errorHighlight": "#f48771",
 	  "minimap.warningHighlight": "#cca700",
-	  "minimap.background": "#2A2C39",
+	  "minimap.background": "#282a36",
 	  "editorGroup.emptyBackground": "#231f2a",
 	  "panelSection.border": "#312a3a59",
 	  "statusBarItem.activeBackground": "#FFFFFF25",
