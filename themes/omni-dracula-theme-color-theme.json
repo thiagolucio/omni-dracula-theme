@@ -1,5 +1,6 @@
 {
 	"name": "Omni Dracula Theme",
+	"author": "Thiago Lucio Bittencourt",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {

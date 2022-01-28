@@ -7,11 +7,17 @@
   <h1>Omni Dracula VSCode Theme</h1>
   <h3>A mix inspired in 
     <a href="https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni" target="_blank">Omni</a> and <a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula" target="_blank">Dracula</a> VSCode colors Themes</h3>
-  <a href="https://thiagolucio.com.br">Created by Thiago Lúcio Bittencourt</a>
+  <a href="https://thiagolucio.com.br">Created by Thiago Lucio Bittencourt</a>
   <br/>
   <a href="https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme">MarketPlace</a>
   <br/>
-  <h3>Three different background contrast theme colors</h3>
+  <h3>Four different background contrast theme colors - version 1.0.5 - January/2022</h3>
+  <ul  style="list-style-type: none">
+    <li><b>Omni Dracula Theme</b></li>
+    <li><b>Omni Dracula Theme Contrast</b></li>
+    <li><b>Omni - Dracula Theme Traditional</b></li>
+    <li><b>Omni - Dracula Theme Traditional Contrast</b></li>
+  </ul>
 </div>
 <br/>
 
