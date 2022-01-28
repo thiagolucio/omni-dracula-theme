@@ -2,7 +2,7 @@
     "name": "omni-dracula-theme",
     "displayName": "Omni Dracula VSCode Theme",
     "description": "A mix Inspired in Omni and Dracula VSCode Colors Themes",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "homepage": "https://thiagolucio.com.br/",
     "publisher": "ThiagoLcioBittencourt",
     "icon": "themes/logo-omni-dracula-theme.png",
@@ -18,7 +18,8 @@
         "omni dracula",
         "thiagolucio",
         "vscode dracula",
-        "vscode omni"
+        "vscode omni",
+        "vscode dracula traditional"
     ],
     "engines": {
         "vscode": "^1.56.0"
@@ -41,6 +42,11 @@
                 "label": "Omni Dracula Theme Contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/omni-dracula-theme-color-theme-contrast.json"
+            },
+            {
+                "label": "Omni Dracula Theme Traditional",
+                "uiTheme": "vs-dark",
+                "path": "./themes/omni-dracula-theme-traditional.json"
             }
         ]
     }
