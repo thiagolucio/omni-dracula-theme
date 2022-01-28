@@ -11,7 +11,7 @@
   <br/>
   <a href="https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme">MarketPlace</a>
   <br/>
-  <h3>Four different background contrast theme colors - version 1.0.5 - January/2022</h3>
+  <h3>Four different background contrast theme colors</h3>
   <ul  style="list-style-type: none">
     <li><b>Omni Dracula Theme</b></li>
     <li><b>Omni Dracula Theme Contrast</b></li>
