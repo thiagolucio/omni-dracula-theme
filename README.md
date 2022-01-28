@@ -11,7 +11,7 @@
   <br/>
   <a href="https://marketplace.visualstudio.com/items?itemName=ThiagoLcioBittencourt.omni-dracula-theme">MarketPlace</a>
   <br/>
-  <h3>Two different background contrast theme colors</h3>
+  <h3>Three different background contrast theme colors</h3>
 </div>
 <br/>
 
@@ -50,6 +50,30 @@ CSS Vision:
 JSON Vision:
 
 <img src="https://thiagolucio.com.br/downloads/omnidraculatheme/json-model.png" title="" alt="json-model.png" align="center">
+
+
+#### NEW VERSION 1.0.4 - Adding Traditional Dracula Color Theme:
+
+New Dracula Traditional Theme - JSON Vision:
+
+<img src="https://thiagolucio.com.br/downloads/omnidraculatheme/dracula-theme-traditional-JSON.png" title="" alt="json-model.png" align="center">
+
+
+New Dracula Traditional Theme - JS Vision:
+
+<img src="https://thiagolucio.com.br/downloads/omnidraculatheme/dracula-traditional-theme-JS.png" title="" alt="json-model.png" align="center">
+
+
+New Dracula Traditional Theme - HTML Vision:
+
+<img src="https://thiagolucio.com.br/downloads/omnidraculatheme/dracula-theme-tradicional-html.png" title="" alt="json-model.png" align="center">
+
+
+New Dracula Traditional Theme - CSS Vision:
+
+<img src="https://thiagolucio.com.br/downloads/omnidraculatheme/dracula-theme-traditionalCSS.png" title="" alt="json-model.png" align="center">
+
+
 
 Be Happy :)
 
