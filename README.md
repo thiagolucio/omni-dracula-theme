@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img width="128px" src="https://thiagolucio.com.br/downloads/omnidraculatheme/logo-omni-dracula-theme.png">
+  <img width="128px" src="https://thiagolucio.com.br/downloads/omnidraculatheme/logo-omni-dracula-theme.svg">
 </div>
 <br/>
 <div align="center">
