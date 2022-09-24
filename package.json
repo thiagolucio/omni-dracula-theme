@@ -3,7 +3,7 @@
     "author": "Thiago Lucio Bittencourt",
     "displayName": "Omni Dracula VSCode Theme",
     "description": "A mix Inspired in Omni and Dracula VSCode Colors Themes",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "homepage": "https://thiagolucio.com.br/",
     "publisher": "ThiagoLcioBittencourt",
     "icon": "themes/logo-omni-dracula-theme.png",
@@ -53,6 +53,11 @@
                 "label": "Omni Dracula Theme Traditional Contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/omni-dracula-theme-color-traditional-contrast.json"
+            },
+            {
+                "label": "Omni Dracula Wine Theme ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/omni-dracula-theme-color-wine.json"
             }
         ]
     }

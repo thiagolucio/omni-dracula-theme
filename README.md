@@ -58,7 +58,9 @@ JSON Vision:
 <img src="https://thiagolucio.com.br/downloads/omnidraculatheme/json-model.png" title="" alt="json-model.png" align="center">
 
 
-#### NEW VERSION 1.0.4 - Adding Traditional Dracula Color Theme:
+## NEW VERSION 1.0.4 - Adding Traditional Dracula Color Theme:
+
+
 
 New Dracula Traditional Theme - JSON Vision:
 
@@ -80,6 +82,18 @@ New Dracula Traditional Theme - CSS Vision:
 <img src="https://thiagolucio.com.br/downloads/omnidraculatheme/dracula-theme-traditionalCSS.png" title="" alt="json-model.png" align="center">
 
 
+## NEW VERSION 1.0.7 - Adding Traditional Wine Dracula Color Theme:
+
+
+<img src="https://thiagolucio.com.br/downloads/omnidraculatheme/omniwine01.png" title="" alt="Wine Dracula Theme" align="center">
+
+<p></p>
+<p></p>
+
+<img src="https://thiagolucio.com.br/downloads/omnidraculatheme/omniwine02.png" title="" alt="Wine Dracula Theme" align="center">
+
+<p></p>
+<p></p>
 
 Be Happy :)
 
